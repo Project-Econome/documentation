@@ -99,3 +99,17 @@ Then Fill out the form.
     - `Image` is the image used when a countryball spawns in the wild
 
 Now click `save`, you just added your first countryball!
+
+
+## How to share access to the dashboard
+### If you're hosting this on your personal computer : its highly not recommended.
+
+Opening your local traffic to the internet is incredibly risky, opening you to all kinds of security breaches. Not just you, but your entire family. If you don't have a domain name, you'll also be forced to openly share your IP address. And if you don't configure secure networking, that's opening your PC to even more potential viruses and security breaches.
+
+### HOWEVER
+if you are using visual code and know what you are doing forward a port to your panel however this means you will need to keep your pc on at all times
+
+But if you dont know what you are doing DONT ATTEMPT THIS  
+
+###Server Hosting
+if you are hosting this on a server you may see something like `my.server.xyz:3000` on pterodactyl servers if your service provides an SSH connection then the panel should be accessible if not then you are out of luck. but if it does support this then add the user to your config.json and they should be able to access the panel when you are sending them the link!
