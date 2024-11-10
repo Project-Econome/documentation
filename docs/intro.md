@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # MyCountryBalls - Discord Bot
-
+---
 [![Discord server](https://img.shields.io/discord/1118965941221466194?color=7489d5&logo=discord&logoColor=ffffff)](https://discord.gg/F5Y6q23WVx)
 ![GitHub contributors](https://img.shields.io/github/contributors/try-econome/MyCountryBalls)
 [![Issues](https://img.shields.io/github/issues/try-econome/MyCountryBalls)](https://github.com/try-econome/MyCountryBalls/issues)
