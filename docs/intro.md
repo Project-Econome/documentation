@@ -2,46 +2,43 @@
 sidebar_position: 1
 ---
 
-# Intro
+# MyCountryBalls - Discord Bot
 
-Let's discover **Docusaurus in less than 5 minutes**.
+[![Discord server](https://img.shields.io/discord/1118965941221466194?color=7489d5&logo=discord&logoColor=ffffff)](https://discord.gg/F5Y6q23WVx)
+![GitHub contributors](https://img.shields.io/github/contributors/try-econome/MyCountryBalls)
+[![Issues](https://img.shields.io/github/issues/try-econome/MyCountryBalls)](https://github.com/try-econome/MyCountryBalls/issues)
+[![discord.py](https://img.shields.io/badge/discord-js-yellow.svg)](https://github.com/discordjs/discord.js/)
+[![Ko-fi](https://img.shields.io/badge/Ko%20fi-donate-blue.svg)](https://ko-fi.com/fradz_lifez)
 
-## Getting Started
+MyCountryballs is an alternative bot to ballsdex in javascript for collecting countryballs on Discord and exchanging them with friends!
 
-Get started by **creating a new site**.
+You can invite the first official bot [here](https://discord.com/api/oauth2/authorize?client_id=1207017704096141312&permissions=537193536&scope=bot%20applications.commands).
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Discord server
 
-### What you'll need
+For help setting up the bot, questions, suggestions to improve or contributions, feel free to join the official community of developers & self hosters!
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+[![Discord server](https://discord.com/api/guilds/1118965941221466194/embed.png?style=banner3)](https://discord.gg/F5Y6q23WVx)
 
-## Generate a new site
+## Suggestions, issues and bug reports
 
-Generate a new Docusaurus site using the **classic template**.
+Any bugs, suggestions or issues can be raised by creating an issue on this repo.
 
-The classic template will automatically be added to your project after you run the command:
+## Documentation
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+You can learn how to setup MyCountryBalls and use all of its tools on the
+[wiki](https://github.com/laggron42/BallsDex-Discordbot/wiki/)!
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## Supporting
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+If you appreciate my work, you can support me on my [Ko-fi](https://ko-fi.com/fradz_lifez)!
 
-## Start your site
+## License
 
-Run the development server:
+This repository is released under the [GNU General Public License](https://opensource.org/licenses/gpl-3-0).
 
-```bash
-cd my-website
-npm run start
-```
+If distributing this bot, credits to the original authors must not be removed.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## Credits 
+Massive credits to Laggron42 for comming up with the original idea of Ballsdex & .
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
