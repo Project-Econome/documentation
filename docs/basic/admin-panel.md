@@ -109,7 +109,7 @@ Opening your local traffic to the internet is incredibly risky, opening you to a
 ### HOWEVER
 if you are using visual code and know what you are doing forward a port to your panel however this means you will need to keep your pc on at all times
 
-But if you dont know what you are doing DONT ATTEMPT THIS  
+But if you dont know what you are doing DONT ATTEMPT THIS!
 
 ###Server Hosting
 if you are hosting this on a server you may see something like `my.server.xyz:3000` on pterodactyl servers if your service provides an SSH connection then the panel should be accessible if not then you are out of luck. but if it does support this then add the user to your config.json and they should be able to access the panel when you are sending them the link!
